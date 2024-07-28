@@ -9,7 +9,7 @@ function App() {
           <img src={logo} className="logo" alt="Oxygen Cylinder" />
         </a>
       </div>
-      <h1>Coming Soon!</h1>
+      <h1>Lauching Soon!</h1>
     </>
   );
 }
